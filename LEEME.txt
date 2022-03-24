@@ -1,0 +1,83 @@
+/*SI NO QUIEN MI EXPLICACION Y SON VALEVERGUISTAS SOLO EJECUTEN LAS MRD A COMO ESTAN ENUMERADA
+NO ES NECESARIO SELECCIONAR UNO POR UNO, SOLO DAR EJECUTAR BASTARA*/
+
+Hola mis panas como estan?
+
+Este proyecto es un avance ya no recuerdo cuantas veces lo estuve actulizando.
+
+Entonces mis panas si estan aqui leyendo esto es que les interesa saber los usado y la elaboracion del mismo,
+por lo tanto aqui les explico a lo mas rapidin.
+
+/*LO PRIMERO FUE EL DESARROLLO DE LA BASE DE DATOS*/
+
+para esto mis panas, use Entrerprice (La herramienta de mi idolo Lord Walger)
+mas que todo ver como esta realizada la base, las conecciones y como iba a conectar todo a la hora de hacer los procedimientos
+ok mis panas una vez reliazado el mapeo (Modelo Entidad Relacion)
+
+A meter datos a la Base a lo loco, para luego avanzar en los procedimientos
+para ellos pues se hicieron CRUD para cada tabla (Obtener, Registar, Modifcar y Eliminar)
+asi para que ustedes mis panas juegen con el sistema.
+
+Otra cosa y esto es importante mis compas es que use una vaina llamada cascada en la base de datos, si quieren lo revisan en los ID y
+en las Foraneas esta implementado lo de cascada y pues eso mis compas es para que ustedes no me jodan el sistema tratando de borrar un registro que es 
+necesario para otra tabla.
+
+Ya sabiendo lo de cascado y los procedimientos para cada tabla de CRUD pues a meter datos a los procedimientos asi llenar las vainas
+otra cosa mis panas y es que solo existan 4 usarios que son Admin, Cocinero, Mesero y RRHH y pues aqui tanto los usuarios como las contraseñas estan 
+encristadas nadie las puede leer XD y para lo del login pues se crea una tabla que nada tiene que ver con la base de datos 
+(Me da pereza explicar el porque, se lo dejo de tarea)
+
+Y por ultimo el reporte de ventas aqui mis panas esto se los enseño la profesora en un video pero ella solo usa tablas y pues aqui es mas avanzado
+usamos procedimiento papa, la cosa es que para esto pues a crear un procedimiento donde llamanos la tabla ventas con otros componentes de varias tablas para 
+mandar a llamar el nombre del plato por ejemplo, ESTO ME QUEDO MAMADICIMO y pues para detarminar las fechas de los reporte pedi dos valores fromDate y toDate en un
+where.
+
+/*SEGUNDO POA POO (A CAPA PUES)*/
+
+Pues mis compas el proyecto esta hecho por capas (NO SERE YO EL QUE EXPLIQUE QUE ES CAPAS Y COMO FUNCIONA, PERO SI LES IMPORTA ASI TRABAJAN LAS EMPRESAS HOY EN DIA)
+PONGAN SE VIVOS MIS PANAS
+
+y pues tenemos 3 capas que son CD capa dado, CN capa negocio y Diseño 
+
+En la CAPA DATO solo encontraran la conecxion (RECUERDAN DE LO DEL LOGIN QUE ESO NO TIENE NADA QUE VER CON LA BASE PUES ESO VA A PARTE MIS COMPAS)
+bueno en esta capa estana las conecciones y los procedimientos los cuales buscan sus conecciones correspondiente a las tablas asignada,
+ RECUERDAN QUE PARA CADA TABLA ERA HACER SU CRUD CORRESPONDIENTE
+pues ahi estan
+
+CAPA NEGOCIO 
+
+en esta capa mis panas esta por asi decierlo la negociacion de SQL y C#, recuerden que SQL y C# tienen sus maneras de conversion, un ejemplo un Varchar en sql 
+seria en c# un scrip y asi pues otro ejemplo seria money en sql y pues en C# seria decimal o float. y para esto es la capa negocio mis compas 
+para hacer la vida mas facil
+
+y por ultimo la capa Sistema, desarrollo, Diseño, fonner o como la llamen
+en esta estan los from estilos MAMADISIMO y pues aqui no ahi nada de ciencia, la cosa es que el usuario interactue con el sistema del restaurante y
+que este sea amigable con el usuario
+
+A la hora de ejecutar el programa pues estos son los usarios y sus contraseñas
+
+Usuario:disney, Contraseña:789
+Usuario: fran, Contraseña:456
+Usuario: Trompu, Contraseña: 123
+Usuario: engel, Contraseña: 111
+
+esos son los usarios que puede de prueba, no se si en esta version son estos
+si los llegue a cambiar serian
+
+Hazsell 123 es la Admin Empoderada
+Fran 456 es el Cocinero 
+Cholulo 789 es Mesero
+Engel 000 RRHH
+
+***************************************************************OBSERVACIONES***********************************************************************************
+/*PARA LA PARTE DEL REPORTE NO SEAN PENDEJOS Y PONGAN UNA FECHA EN LA CUAL NO AHI REPORTES*/
+
+/*UNA COSA MIS PANAS CON RESPECTO AL SQL TALVEZ ME LES DE UN PROBLEMA CON INSERTAR DATOS Y ESTO SE DEBE AL FORMATO DE FECHA 
+EN MI PC EL FORMATO ES ASI 01-01-2021 PERO EN OTRA PUEDE SER ASI 01/01/2021*/
+
+/*PARA EL DATASET PUEDE QUE LE DE PROBLEMAS POR EL NOMBRE DE USUARIO DE MI SQL QUE ES DIFERENTE EN CADA PC PARA ESO SE PUEDEN GUIAR DEL VIDEO DE LA PROFE*/
+
+***************************************************************RECOMENDACIONES***********************************************************************************
+
+Y POR ULTIMO MIS PANAS COMO RECOMENDACION USEN 2 PC UNA PARA MOSTRAR EL CODIGO Y LA OTRA PARA QUE YA TENGAN EL PROGRAMA EJECUTADO, PORQUE DILATA SU RATO 
+YA QUE ESTA MAMADISIMO

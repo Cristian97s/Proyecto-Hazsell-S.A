@@ -1,0 +1,226 @@
+C:\Users\Administrator\Desktop\ProyectoBD1\Sistema Restaurante\bin\Debug\Sistema Restaurante.exe.config
+C:\Users\Administrator\Desktop\ProyectoBD1\Sistema Restaurante\bin\Debug\Sistema Restaurante.exe
+C:\Users\Administrator\Desktop\ProyectoBD1\Sistema Restaurante\bin\Debug\Sistema Restaurante.pdb
+C:\Users\Administrator\Desktop\ProyectoBD1\Sistema Restaurante\bin\Debug\CapaNegocio.dll
+C:\Users\Administrator\Desktop\ProyectoBD1\Sistema Restaurante\bin\Debug\CapaDatos.dll
+C:\Users\Administrator\Desktop\ProyectoBD1\Sistema Restaurante\bin\Debug\CapaNegocio.pdb
+C:\Users\Administrator\Desktop\ProyectoBD1\Sistema Restaurante\bin\Debug\CapaDatos.pdb
+C:\Users\Administrator\Desktop\ProyectoBD1\Sistema Restaurante\obj\Debug\Sistema Restaurante.csproj.AssemblyReference.cache
+C:\Users\Administrator\Desktop\ProyectoBD1\Sistema Restaurante\obj\Debug\Sistema_Restaurante.Properties.Resources.resources
+C:\Users\Administrator\Desktop\ProyectoBD1\Sistema Restaurante\obj\Debug\Sistema Restaurante.csproj.GenerateResource.cache
+C:\Users\Administrator\Desktop\ProyectoBD1\Sistema Restaurante\obj\Debug\Sistema Restaurante.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Desktop\ProyectoBD1\Sistema Restaurante\obj\Debug\Sistema Restaurante.exe
+C:\Users\Administrator\Desktop\ProyectoBD1\Sistema Restaurante\obj\Debug\Sistema Restaurante.pdb
+C:\Users\Administrator\Desktop\ProyectoBD1\Sistema Restaurante\obj\Debug\Sistema_Restaurante.Proveedor.resources
+C:\Users\Administrator\Desktop\ProyectoBD1\Sistema Restaurante\obj\Debug\Sistema_Restaurante.Cliente.resources
+C:\Users\Administrator\Desktop\ProyectoBD1\Sistema Restaurante\obj\Debug\Sistema_Restaurante.Sistema.resources
+C:\Users\Administrator\Desktop\ProyectoBD1\Sistema Restaurante\obj\Debug\Sistema_Restaurante.Mesa.resources
+C:\Users\Administrator\Desktop\Proyecto Hazsell S.A\ProyectoBD1\Sistema Restaurante\bin\Debug\Sistema Restaurante.exe.config
+C:\Users\Administrator\Desktop\Proyecto Hazsell S.A\ProyectoBD1\Sistema Restaurante\bin\Debug\Sistema Restaurante.exe
+C:\Users\Administrator\Desktop\Proyecto Hazsell S.A\ProyectoBD1\Sistema Restaurante\bin\Debug\Sistema Restaurante.pdb
+C:\Users\Administrator\Desktop\Proyecto Hazsell S.A\ProyectoBD1\Sistema Restaurante\bin\Debug\CapaNegocio.dll
+C:\Users\Administrator\Desktop\Proyecto Hazsell S.A\ProyectoBD1\Sistema Restaurante\bin\Debug\CapaDatos.dll
+C:\Users\Administrator\Desktop\Proyecto Hazsell S.A\ProyectoBD1\Sistema Restaurante\bin\Debug\CapaNegocio.pdb
+C:\Users\Administrator\Desktop\Proyecto Hazsell S.A\ProyectoBD1\Sistema Restaurante\bin\Debug\CapaDatos.pdb
+C:\Users\Administrator\Desktop\Proyecto Hazsell S.A\ProyectoBD1\Sistema Restaurante\obj\Debug\Sistema Restaurante.csproj.AssemblyReference.cache
+C:\Users\Administrator\Desktop\Proyecto Hazsell S.A\ProyectoBD1\Sistema Restaurante\obj\Debug\Sistema_Restaurante.Cliente.resources
+C:\Users\Administrator\Desktop\Proyecto Hazsell S.A\ProyectoBD1\Sistema Restaurante\obj\Debug\Sistema_Restaurante.Mesa.resources
+C:\Users\Administrator\Desktop\Proyecto Hazsell S.A\ProyectoBD1\Sistema Restaurante\obj\Debug\Sistema_Restaurante.Proveedor.resources
+C:\Users\Administrator\Desktop\Proyecto Hazsell S.A\ProyectoBD1\Sistema Restaurante\obj\Debug\Sistema_Restaurante.Properties.Resources.resources
+C:\Users\Administrator\Desktop\Proyecto Hazsell S.A\ProyectoBD1\Sistema Restaurante\obj\Debug\Sistema_Restaurante.TipoPersonal.resources
+C:\Users\Administrator\Desktop\Proyecto Hazsell S.A\ProyectoBD1\Sistema Restaurante\obj\Debug\Sistema Restaurante.csproj.GenerateResource.cache
+C:\Users\Administrator\Desktop\Proyecto Hazsell S.A\ProyectoBD1\Sistema Restaurante\obj\Debug\Sistema Restaurante.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Desktop\Proyecto Hazsell S.A\ProyectoBD1\Sistema Restaurante\obj\Debug\Sistema Restaurante.exe
+C:\Users\Administrator\Desktop\Proyecto Hazsell S.A\ProyectoBD1\Sistema Restaurante\obj\Debug\Sistema Restaurante.pdb
+C:\Users\Administrator\Desktop\Proyecto Hazsell S.A\ProyectoBD1\Sistema Restaurante\obj\Debug\Sistema_Restaurante.Turno.resources
+C:\Users\Administrator\Desktop\Proyecto Hazsell S.A\ProyectoBD1\Sistema Restaurante\obj\Debug\Sistema_Restaurante.Insumo.resources
+C:\Users\Administrator\Desktop\Proyecto Hazsell S.A\ProyectoBD1\Sistema Restaurante\obj\Debug\Sistema_Restaurante.Cocinero.resources
+C:\Users\Administrator\Desktop\Proyecto Hazsell S.A\ProyectoBD1\Sistema Restaurante\obj\Debug\Sistema_Restaurante.InsumoPlato.resources
+C:\Users\Administrator\Desktop\Proyecto Hazsell S.A\ProyectoBD1\Sistema Restaurante\obj\Debug\Sistema_Restaurante.Mesero.resources
+C:\Users\Administrator\Desktop\Proyecto Hazsell S.A\ProyectoBD1\Sistema Restaurante\obj\Debug\Sistema_Restaurante.Pedido.resources
+C:\Users\Administrator\Desktop\Proyecto Hazsell S.A\ProyectoBD1\Sistema Restaurante\obj\Debug\Sistema_Restaurante.Plato.resources
+C:\Users\Administrator\Desktop\Proyecto Hazsell S.A\ProyectoBD1\Sistema Restaurante\obj\Debug\Sistema_Restaurante.ProveedorInsumo.resources
+C:\Users\Administrator\Desktop\Proyecto Hazsell S.A\ProyectoBD1\Sistema Restaurante\obj\Debug\Sistema_Restaurante.DetallePedido.resources
+C:\Users\Administrator\Desktop\Proyecto Hazsell S.A\ProyectoBD1\Sistema Restaurante\obj\Debug\Sistema_Restaurante.FormMainMenu.resources
+C:\Users\Administrator\Desktop\Proyecto Hazsell S.A\ProyectoBD1\Sistema Restaurante\obj\Debug\Sistema_Restaurante.Ventas.resources
+C:\Users\Administrator\Desktop\Proyecto Hazsell S.A\ProyectoBD1\Sistema Restaurante\obj\Debug\Sistema Restaurante.csproj.CopyComplete
+D:\Proyectos\Proyecto Hazsell S.A V3\Proyecto Hazsell S.A\ProyectoBD1\Sistema Restaurante\bin\Debug\Sistema Restaurante.exe.config
+D:\Proyectos\Proyecto Hazsell S.A V3\Proyecto Hazsell S.A\ProyectoBD1\Sistema Restaurante\bin\Debug\Sistema Restaurante.exe
+D:\Proyectos\Proyecto Hazsell S.A V3\Proyecto Hazsell S.A\ProyectoBD1\Sistema Restaurante\bin\Debug\Sistema Restaurante.pdb
+D:\Proyectos\Proyecto Hazsell S.A V3\Proyecto Hazsell S.A\ProyectoBD1\Sistema Restaurante\bin\Debug\CapaNegocio.dll
+D:\Proyectos\Proyecto Hazsell S.A V3\Proyecto Hazsell S.A\ProyectoBD1\Sistema Restaurante\bin\Debug\CapaDatos.dll
+D:\Proyectos\Proyecto Hazsell S.A V3\Proyecto Hazsell S.A\ProyectoBD1\Sistema Restaurante\bin\Debug\CapaNegocio.pdb
+D:\Proyectos\Proyecto Hazsell S.A V3\Proyecto Hazsell S.A\ProyectoBD1\Sistema Restaurante\bin\Debug\CapaDatos.pdb
+D:\Proyectos\Proyecto Hazsell S.A V3\Proyecto Hazsell S.A\ProyectoBD1\Sistema Restaurante\obj\Debug\Sistema Restaurante.csproj.AssemblyReference.cache
+D:\Proyectos\Proyecto Hazsell S.A V3\Proyecto Hazsell S.A\ProyectoBD1\Sistema Restaurante\obj\Debug\Sistema_Restaurante.Cliente.resources
+D:\Proyectos\Proyecto Hazsell S.A V3\Proyecto Hazsell S.A\ProyectoBD1\Sistema Restaurante\obj\Debug\Sistema_Restaurante.Cocinero.resources
+D:\Proyectos\Proyecto Hazsell S.A V3\Proyecto Hazsell S.A\ProyectoBD1\Sistema Restaurante\obj\Debug\Sistema_Restaurante.DetallePedido.resources
+D:\Proyectos\Proyecto Hazsell S.A V3\Proyecto Hazsell S.A\ProyectoBD1\Sistema Restaurante\obj\Debug\Sistema_Restaurante.frmLogin.resources
+D:\Proyectos\Proyecto Hazsell S.A V3\Proyecto Hazsell S.A\ProyectoBD1\Sistema Restaurante\obj\Debug\Sistema_Restaurante.Insumo.resources
+D:\Proyectos\Proyecto Hazsell S.A V3\Proyecto Hazsell S.A\ProyectoBD1\Sistema Restaurante\obj\Debug\Sistema_Restaurante.InsumoPlato.resources
+D:\Proyectos\Proyecto Hazsell S.A V3\Proyecto Hazsell S.A\ProyectoBD1\Sistema Restaurante\obj\Debug\Sistema_Restaurante.Mesa.resources
+D:\Proyectos\Proyecto Hazsell S.A V3\Proyecto Hazsell S.A\ProyectoBD1\Sistema Restaurante\obj\Debug\Sistema_Restaurante.Mesero.resources
+D:\Proyectos\Proyecto Hazsell S.A V3\Proyecto Hazsell S.A\ProyectoBD1\Sistema Restaurante\obj\Debug\Sistema_Restaurante.Pedido.resources
+D:\Proyectos\Proyecto Hazsell S.A V3\Proyecto Hazsell S.A\ProyectoBD1\Sistema Restaurante\obj\Debug\Sistema_Restaurante.Plato.resources
+D:\Proyectos\Proyecto Hazsell S.A V3\Proyecto Hazsell S.A\ProyectoBD1\Sistema Restaurante\obj\Debug\Sistema_Restaurante.Proveedor.resources
+D:\Proyectos\Proyecto Hazsell S.A V3\Proyecto Hazsell S.A\ProyectoBD1\Sistema Restaurante\obj\Debug\Sistema_Restaurante.Properties.Resources.resources
+D:\Proyectos\Proyecto Hazsell S.A V3\Proyecto Hazsell S.A\ProyectoBD1\Sistema Restaurante\obj\Debug\Sistema_Restaurante.ProveedorInsumo.resources
+D:\Proyectos\Proyecto Hazsell S.A V3\Proyecto Hazsell S.A\ProyectoBD1\Sistema Restaurante\obj\Debug\Sistema_Restaurante.FormMainMenu.resources
+D:\Proyectos\Proyecto Hazsell S.A V3\Proyecto Hazsell S.A\ProyectoBD1\Sistema Restaurante\obj\Debug\Sistema_Restaurante.TipoPersonal.resources
+D:\Proyectos\Proyecto Hazsell S.A V3\Proyecto Hazsell S.A\ProyectoBD1\Sistema Restaurante\obj\Debug\Sistema_Restaurante.Turno.resources
+D:\Proyectos\Proyecto Hazsell S.A V3\Proyecto Hazsell S.A\ProyectoBD1\Sistema Restaurante\obj\Debug\Sistema_Restaurante.Ventas.resources
+D:\Proyectos\Proyecto Hazsell S.A V3\Proyecto Hazsell S.A\ProyectoBD1\Sistema Restaurante\obj\Debug\Sistema Restaurante.csproj.GenerateResource.cache
+D:\Proyectos\Proyecto Hazsell S.A V3\Proyecto Hazsell S.A\ProyectoBD1\Sistema Restaurante\obj\Debug\Sistema Restaurante.csproj.CoreCompileInputs.cache
+D:\Proyectos\Proyecto Hazsell S.A V3\Proyecto Hazsell S.A\ProyectoBD1\Sistema Restaurante\obj\Debug\Sistema Restaurante.csproj.CopyComplete
+D:\Proyectos\Proyecto Hazsell S.A V3\Proyecto Hazsell S.A\ProyectoBD1\Sistema Restaurante\obj\Debug\Sistema Restaurante.exe
+D:\Proyectos\Proyecto Hazsell S.A V3\Proyecto Hazsell S.A\ProyectoBD1\Sistema Restaurante\obj\Debug\Sistema Restaurante.pdb
+C:\Users\Administrator\Desktop\Nueva carpeta\Proyecto Hazsell S.A\ProyectoBD1\Sistema Restaurante\bin\Debug\Sistema Restaurante.exe.config
+C:\Users\Administrator\Desktop\Nueva carpeta\Proyecto Hazsell S.A\ProyectoBD1\Sistema Restaurante\bin\Debug\Sistema Restaurante.exe
+C:\Users\Administrator\Desktop\Nueva carpeta\Proyecto Hazsell S.A\ProyectoBD1\Sistema Restaurante\bin\Debug\Sistema Restaurante.pdb
+C:\Users\Administrator\Desktop\Nueva carpeta\Proyecto Hazsell S.A\ProyectoBD1\Sistema Restaurante\bin\Debug\CapaDatos.dll
+C:\Users\Administrator\Desktop\Nueva carpeta\Proyecto Hazsell S.A\ProyectoBD1\Sistema Restaurante\bin\Debug\CapaNegocio.dll
+C:\Users\Administrator\Desktop\Nueva carpeta\Proyecto Hazsell S.A\ProyectoBD1\Sistema Restaurante\bin\Debug\CapaDatos.pdb
+C:\Users\Administrator\Desktop\Nueva carpeta\Proyecto Hazsell S.A\ProyectoBD1\Sistema Restaurante\bin\Debug\CapaNegocio.pdb
+C:\Users\Administrator\Desktop\Nueva carpeta\Proyecto Hazsell S.A\ProyectoBD1\Sistema Restaurante\obj\Debug\Sistema Restaurante.csproj.AssemblyReference.cache
+C:\Users\Administrator\Desktop\Nueva carpeta\Proyecto Hazsell S.A\ProyectoBD1\Sistema Restaurante\obj\Debug\Sistema_Restaurante.Cliente.resources
+C:\Users\Administrator\Desktop\Nueva carpeta\Proyecto Hazsell S.A\ProyectoBD1\Sistema Restaurante\obj\Debug\Sistema_Restaurante.Cocinero.resources
+C:\Users\Administrator\Desktop\Nueva carpeta\Proyecto Hazsell S.A\ProyectoBD1\Sistema Restaurante\obj\Debug\Sistema_Restaurante.DetallePedido.resources
+C:\Users\Administrator\Desktop\Nueva carpeta\Proyecto Hazsell S.A\ProyectoBD1\Sistema Restaurante\obj\Debug\Sistema_Restaurante.frmLogin.resources
+C:\Users\Administrator\Desktop\Nueva carpeta\Proyecto Hazsell S.A\ProyectoBD1\Sistema Restaurante\obj\Debug\Sistema_Restaurante.Insumo.resources
+C:\Users\Administrator\Desktop\Nueva carpeta\Proyecto Hazsell S.A\ProyectoBD1\Sistema Restaurante\obj\Debug\Sistema_Restaurante.InsumoPlato.resources
+C:\Users\Administrator\Desktop\Nueva carpeta\Proyecto Hazsell S.A\ProyectoBD1\Sistema Restaurante\obj\Debug\Sistema_Restaurante.Mesa.resources
+C:\Users\Administrator\Desktop\Nueva carpeta\Proyecto Hazsell S.A\ProyectoBD1\Sistema Restaurante\obj\Debug\Sistema_Restaurante.Mesero.resources
+C:\Users\Administrator\Desktop\Nueva carpeta\Proyecto Hazsell S.A\ProyectoBD1\Sistema Restaurante\obj\Debug\Sistema_Restaurante.Pedido.resources
+C:\Users\Administrator\Desktop\Nueva carpeta\Proyecto Hazsell S.A\ProyectoBD1\Sistema Restaurante\obj\Debug\Sistema_Restaurante.Plato.resources
+C:\Users\Administrator\Desktop\Nueva carpeta\Proyecto Hazsell S.A\ProyectoBD1\Sistema Restaurante\obj\Debug\Sistema_Restaurante.Proveedor.resources
+C:\Users\Administrator\Desktop\Nueva carpeta\Proyecto Hazsell S.A\ProyectoBD1\Sistema Restaurante\obj\Debug\Sistema_Restaurante.Properties.Resources.resources
+C:\Users\Administrator\Desktop\Nueva carpeta\Proyecto Hazsell S.A\ProyectoBD1\Sistema Restaurante\obj\Debug\Sistema_Restaurante.ProveedorInsumo.resources
+C:\Users\Administrator\Desktop\Nueva carpeta\Proyecto Hazsell S.A\ProyectoBD1\Sistema Restaurante\obj\Debug\Sistema_Restaurante.FormMainMenu.resources
+C:\Users\Administrator\Desktop\Nueva carpeta\Proyecto Hazsell S.A\ProyectoBD1\Sistema Restaurante\obj\Debug\Sistema_Restaurante.TipoPersonal.resources
+C:\Users\Administrator\Desktop\Nueva carpeta\Proyecto Hazsell S.A\ProyectoBD1\Sistema Restaurante\obj\Debug\Sistema_Restaurante.Turno.resources
+C:\Users\Administrator\Desktop\Nueva carpeta\Proyecto Hazsell S.A\ProyectoBD1\Sistema Restaurante\obj\Debug\Sistema_Restaurante.Ventas.resources
+C:\Users\Administrator\Desktop\Nueva carpeta\Proyecto Hazsell S.A\ProyectoBD1\Sistema Restaurante\obj\Debug\Sistema Restaurante.csproj.GenerateResource.cache
+C:\Users\Administrator\Desktop\Nueva carpeta\Proyecto Hazsell S.A\ProyectoBD1\Sistema Restaurante\obj\Debug\Sistema Restaurante.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Desktop\Nueva carpeta\Proyecto Hazsell S.A\ProyectoBD1\Sistema Restaurante\obj\Debug\Sistema Restaurante.exe
+C:\Users\Administrator\Desktop\Nueva carpeta\Proyecto Hazsell S.A\ProyectoBD1\Sistema Restaurante\obj\Debug\Sistema Restaurante.pdb
+C:\Users\Administrator\Desktop\Nueva carpeta\Proyecto Hazsell S.A\ProyectoBD1\Sistema Restaurante\bin\Debug\SqlServerTypes\x64\msvcr120.dll
+C:\Users\Administrator\Desktop\Nueva carpeta\Proyecto Hazsell S.A\ProyectoBD1\Sistema Restaurante\bin\Debug\SqlServerTypes\x64\SqlServerSpatial140.dll
+C:\Users\Administrator\Desktop\Nueva carpeta\Proyecto Hazsell S.A\ProyectoBD1\Sistema Restaurante\bin\Debug\SqlServerTypes\x86\msvcr120.dll
+C:\Users\Administrator\Desktop\Nueva carpeta\Proyecto Hazsell S.A\ProyectoBD1\Sistema Restaurante\bin\Debug\SqlServerTypes\x86\SqlServerSpatial140.dll
+C:\Users\Administrator\Desktop\Nueva carpeta\Proyecto Hazsell S.A\ProyectoBD1\Sistema Restaurante\bin\Debug\Microsoft.ReportViewer.Common.dll
+C:\Users\Administrator\Desktop\Nueva carpeta\Proyecto Hazsell S.A\ProyectoBD1\Sistema Restaurante\bin\Debug\Microsoft.ReportViewer.DataVisualization.dll
+C:\Users\Administrator\Desktop\Nueva carpeta\Proyecto Hazsell S.A\ProyectoBD1\Sistema Restaurante\bin\Debug\Microsoft.ReportViewer.Design.dll
+C:\Users\Administrator\Desktop\Nueva carpeta\Proyecto Hazsell S.A\ProyectoBD1\Sistema Restaurante\bin\Debug\Microsoft.ReportViewer.ProcessingObjectModel.dll
+C:\Users\Administrator\Desktop\Nueva carpeta\Proyecto Hazsell S.A\ProyectoBD1\Sistema Restaurante\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+C:\Users\Administrator\Desktop\Nueva carpeta\Proyecto Hazsell S.A\ProyectoBD1\Sistema Restaurante\bin\Debug\Microsoft.SqlServer.Types.dll
+C:\Users\Administrator\Desktop\Nueva carpeta\Proyecto Hazsell S.A\ProyectoBD1\Sistema Restaurante\bin\Debug\EnvDTE.dll
+C:\Users\Administrator\Desktop\Nueva carpeta\Proyecto Hazsell S.A\ProyectoBD1\Sistema Restaurante\bin\Debug\Microsoft.VisualStudio.Shell.Interop.dll
+C:\Users\Administrator\Desktop\Nueva carpeta\Proyecto Hazsell S.A\ProyectoBD1\Sistema Restaurante\bin\Debug\Microsoft.VisualStudio.Shell.Interop.8.0.dll
+C:\Users\Administrator\Desktop\Nueva carpeta\Proyecto Hazsell S.A\ProyectoBD1\Sistema Restaurante\bin\Debug\stdole.dll
+C:\Users\Administrator\Desktop\Nueva carpeta\Proyecto Hazsell S.A\ProyectoBD1\Sistema Restaurante\bin\Debug\Microsoft.VisualStudio.OLE.Interop.dll
+C:\Users\Administrator\Desktop\Nueva carpeta\Proyecto Hazsell S.A\ProyectoBD1\Sistema Restaurante\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.dll
+C:\Users\Administrator\Desktop\Nueva carpeta\Proyecto Hazsell S.A\ProyectoBD1\Sistema Restaurante\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.8.0.dll
+C:\Users\Administrator\Desktop\Nueva carpeta\Proyecto Hazsell S.A\ProyectoBD1\Sistema Restaurante\bin\Debug\Microsoft.MSXML.dll
+C:\Users\Administrator\Desktop\Nueva carpeta\Proyecto Hazsell S.A\ProyectoBD1\Sistema Restaurante\bin\Debug\de\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Administrator\Desktop\Nueva carpeta\Proyecto Hazsell S.A\ProyectoBD1\Sistema Restaurante\bin\Debug\es\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Administrator\Desktop\Nueva carpeta\Proyecto Hazsell S.A\ProyectoBD1\Sistema Restaurante\bin\Debug\fr\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Administrator\Desktop\Nueva carpeta\Proyecto Hazsell S.A\ProyectoBD1\Sistema Restaurante\bin\Debug\it\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Administrator\Desktop\Nueva carpeta\Proyecto Hazsell S.A\ProyectoBD1\Sistema Restaurante\bin\Debug\ja\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Administrator\Desktop\Nueva carpeta\Proyecto Hazsell S.A\ProyectoBD1\Sistema Restaurante\bin\Debug\ko\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Administrator\Desktop\Nueva carpeta\Proyecto Hazsell S.A\ProyectoBD1\Sistema Restaurante\bin\Debug\pt\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Administrator\Desktop\Nueva carpeta\Proyecto Hazsell S.A\ProyectoBD1\Sistema Restaurante\bin\Debug\ru\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Administrator\Desktop\Nueva carpeta\Proyecto Hazsell S.A\ProyectoBD1\Sistema Restaurante\bin\Debug\zh-CHS\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Administrator\Desktop\Nueva carpeta\Proyecto Hazsell S.A\ProyectoBD1\Sistema Restaurante\bin\Debug\zh-CHT\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Administrator\Desktop\Nueva carpeta\Proyecto Hazsell S.A\ProyectoBD1\Sistema Restaurante\bin\Debug\de\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Administrator\Desktop\Nueva carpeta\Proyecto Hazsell S.A\ProyectoBD1\Sistema Restaurante\bin\Debug\es\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Administrator\Desktop\Nueva carpeta\Proyecto Hazsell S.A\ProyectoBD1\Sistema Restaurante\bin\Debug\fr\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Administrator\Desktop\Nueva carpeta\Proyecto Hazsell S.A\ProyectoBD1\Sistema Restaurante\bin\Debug\it\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Administrator\Desktop\Nueva carpeta\Proyecto Hazsell S.A\ProyectoBD1\Sistema Restaurante\bin\Debug\ja\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Administrator\Desktop\Nueva carpeta\Proyecto Hazsell S.A\ProyectoBD1\Sistema Restaurante\bin\Debug\ko\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Administrator\Desktop\Nueva carpeta\Proyecto Hazsell S.A\ProyectoBD1\Sistema Restaurante\bin\Debug\pt\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Administrator\Desktop\Nueva carpeta\Proyecto Hazsell S.A\ProyectoBD1\Sistema Restaurante\bin\Debug\ru\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Administrator\Desktop\Nueva carpeta\Proyecto Hazsell S.A\ProyectoBD1\Sistema Restaurante\bin\Debug\zh-CHS\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Administrator\Desktop\Nueva carpeta\Proyecto Hazsell S.A\ProyectoBD1\Sistema Restaurante\bin\Debug\zh-CHT\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Administrator\Desktop\Nueva carpeta\Proyecto Hazsell S.A\ProyectoBD1\Sistema Restaurante\bin\Debug\de\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Administrator\Desktop\Nueva carpeta\Proyecto Hazsell S.A\ProyectoBD1\Sistema Restaurante\bin\Debug\es\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Administrator\Desktop\Nueva carpeta\Proyecto Hazsell S.A\ProyectoBD1\Sistema Restaurante\bin\Debug\fr\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Administrator\Desktop\Nueva carpeta\Proyecto Hazsell S.A\ProyectoBD1\Sistema Restaurante\bin\Debug\it\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Administrator\Desktop\Nueva carpeta\Proyecto Hazsell S.A\ProyectoBD1\Sistema Restaurante\bin\Debug\ja\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Administrator\Desktop\Nueva carpeta\Proyecto Hazsell S.A\ProyectoBD1\Sistema Restaurante\bin\Debug\ko\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Administrator\Desktop\Nueva carpeta\Proyecto Hazsell S.A\ProyectoBD1\Sistema Restaurante\bin\Debug\pt\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Administrator\Desktop\Nueva carpeta\Proyecto Hazsell S.A\ProyectoBD1\Sistema Restaurante\bin\Debug\ru\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Administrator\Desktop\Nueva carpeta\Proyecto Hazsell S.A\ProyectoBD1\Sistema Restaurante\bin\Debug\zh-CHS\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Administrator\Desktop\Nueva carpeta\Proyecto Hazsell S.A\ProyectoBD1\Sistema Restaurante\bin\Debug\zh-CHT\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Administrator\Desktop\Nueva carpeta\Proyecto Hazsell S.A\ProyectoBD1\Sistema Restaurante\bin\Debug\de\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Administrator\Desktop\Nueva carpeta\Proyecto Hazsell S.A\ProyectoBD1\Sistema Restaurante\bin\Debug\es\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Administrator\Desktop\Nueva carpeta\Proyecto Hazsell S.A\ProyectoBD1\Sistema Restaurante\bin\Debug\fr\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Administrator\Desktop\Nueva carpeta\Proyecto Hazsell S.A\ProyectoBD1\Sistema Restaurante\bin\Debug\it\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Administrator\Desktop\Nueva carpeta\Proyecto Hazsell S.A\ProyectoBD1\Sistema Restaurante\bin\Debug\ja\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Administrator\Desktop\Nueva carpeta\Proyecto Hazsell S.A\ProyectoBD1\Sistema Restaurante\bin\Debug\ko\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Administrator\Desktop\Nueva carpeta\Proyecto Hazsell S.A\ProyectoBD1\Sistema Restaurante\bin\Debug\pt\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Administrator\Desktop\Nueva carpeta\Proyecto Hazsell S.A\ProyectoBD1\Sistema Restaurante\bin\Debug\ru\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Administrator\Desktop\Nueva carpeta\Proyecto Hazsell S.A\ProyectoBD1\Sistema Restaurante\bin\Debug\zh-CHS\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Administrator\Desktop\Nueva carpeta\Proyecto Hazsell S.A\ProyectoBD1\Sistema Restaurante\bin\Debug\zh-CHT\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Administrator\Desktop\Nueva carpeta\Proyecto Hazsell S.A\ProyectoBD1\Sistema Restaurante\obj\Debug\Sistema Restaurante.csproj.CopyComplete
+C:\Users\Administrator\Desktop\Proyecto Hazsell S.A\ProyectoBD1\Sistema Restaurante\obj\Debug\Sistema_Restaurante.frmLogin.resources
+C:\Users\Administrator\Desktop\Proyecto Hazsell S.A\ProyectoBD1\Sistema Restaurante\obj\Debug\Sistema_Restaurante.Reporte.resources
+C:\Users\Administrator\Desktop\Proyecto Hazsell S.A\ProyectoBD1\Sistema Restaurante\obj\Debug\RdlCompile.cache
+C:\Users\Administrator\Desktop\Proyecto Hazsell S.A\ProyectoBD1\Sistema Restaurante\obj\Debug\RdlCompile.compiled
+C:\Users\Administrator\Desktop\Proyecto Hazsell S.A\ProyectoBD1\Sistema Restaurante\bin\Debug\SqlServerTypes\x64\msvcr120.dll
+C:\Users\Administrator\Desktop\Proyecto Hazsell S.A\ProyectoBD1\Sistema Restaurante\bin\Debug\SqlServerTypes\x64\SqlServerSpatial140.dll
+C:\Users\Administrator\Desktop\Proyecto Hazsell S.A\ProyectoBD1\Sistema Restaurante\bin\Debug\SqlServerTypes\x86\msvcr120.dll
+C:\Users\Administrator\Desktop\Proyecto Hazsell S.A\ProyectoBD1\Sistema Restaurante\bin\Debug\SqlServerTypes\x86\SqlServerSpatial140.dll
+C:\Users\Administrator\Desktop\Proyecto Hazsell S.A\ProyectoBD1\Sistema Restaurante\bin\Debug\Microsoft.ReportViewer.Common.dll
+C:\Users\Administrator\Desktop\Proyecto Hazsell S.A\ProyectoBD1\Sistema Restaurante\bin\Debug\Microsoft.ReportViewer.DataVisualization.dll
+C:\Users\Administrator\Desktop\Proyecto Hazsell S.A\ProyectoBD1\Sistema Restaurante\bin\Debug\Microsoft.ReportViewer.Design.dll
+C:\Users\Administrator\Desktop\Proyecto Hazsell S.A\ProyectoBD1\Sistema Restaurante\bin\Debug\Microsoft.ReportViewer.ProcessingObjectModel.dll
+C:\Users\Administrator\Desktop\Proyecto Hazsell S.A\ProyectoBD1\Sistema Restaurante\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+C:\Users\Administrator\Desktop\Proyecto Hazsell S.A\ProyectoBD1\Sistema Restaurante\bin\Debug\Microsoft.SqlServer.Types.dll
+C:\Users\Administrator\Desktop\Proyecto Hazsell S.A\ProyectoBD1\Sistema Restaurante\bin\Debug\EnvDTE.dll
+C:\Users\Administrator\Desktop\Proyecto Hazsell S.A\ProyectoBD1\Sistema Restaurante\bin\Debug\Microsoft.VisualStudio.Shell.Interop.dll
+C:\Users\Administrator\Desktop\Proyecto Hazsell S.A\ProyectoBD1\Sistema Restaurante\bin\Debug\Microsoft.VisualStudio.Shell.Interop.8.0.dll
+C:\Users\Administrator\Desktop\Proyecto Hazsell S.A\ProyectoBD1\Sistema Restaurante\bin\Debug\stdole.dll
+C:\Users\Administrator\Desktop\Proyecto Hazsell S.A\ProyectoBD1\Sistema Restaurante\bin\Debug\Microsoft.VisualStudio.OLE.Interop.dll
+C:\Users\Administrator\Desktop\Proyecto Hazsell S.A\ProyectoBD1\Sistema Restaurante\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.dll
+C:\Users\Administrator\Desktop\Proyecto Hazsell S.A\ProyectoBD1\Sistema Restaurante\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.8.0.dll
+C:\Users\Administrator\Desktop\Proyecto Hazsell S.A\ProyectoBD1\Sistema Restaurante\bin\Debug\Microsoft.MSXML.dll
+C:\Users\Administrator\Desktop\Proyecto Hazsell S.A\ProyectoBD1\Sistema Restaurante\bin\Debug\de\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Administrator\Desktop\Proyecto Hazsell S.A\ProyectoBD1\Sistema Restaurante\bin\Debug\es\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Administrator\Desktop\Proyecto Hazsell S.A\ProyectoBD1\Sistema Restaurante\bin\Debug\fr\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Administrator\Desktop\Proyecto Hazsell S.A\ProyectoBD1\Sistema Restaurante\bin\Debug\it\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Administrator\Desktop\Proyecto Hazsell S.A\ProyectoBD1\Sistema Restaurante\bin\Debug\ja\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Administrator\Desktop\Proyecto Hazsell S.A\ProyectoBD1\Sistema Restaurante\bin\Debug\ko\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Administrator\Desktop\Proyecto Hazsell S.A\ProyectoBD1\Sistema Restaurante\bin\Debug\pt\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Administrator\Desktop\Proyecto Hazsell S.A\ProyectoBD1\Sistema Restaurante\bin\Debug\ru\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Administrator\Desktop\Proyecto Hazsell S.A\ProyectoBD1\Sistema Restaurante\bin\Debug\zh-CHS\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Administrator\Desktop\Proyecto Hazsell S.A\ProyectoBD1\Sistema Restaurante\bin\Debug\zh-CHT\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Administrator\Desktop\Proyecto Hazsell S.A\ProyectoBD1\Sistema Restaurante\bin\Debug\de\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Administrator\Desktop\Proyecto Hazsell S.A\ProyectoBD1\Sistema Restaurante\bin\Debug\es\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Administrator\Desktop\Proyecto Hazsell S.A\ProyectoBD1\Sistema Restaurante\bin\Debug\fr\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Administrator\Desktop\Proyecto Hazsell S.A\ProyectoBD1\Sistema Restaurante\bin\Debug\it\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Administrator\Desktop\Proyecto Hazsell S.A\ProyectoBD1\Sistema Restaurante\bin\Debug\ja\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Administrator\Desktop\Proyecto Hazsell S.A\ProyectoBD1\Sistema Restaurante\bin\Debug\ko\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Administrator\Desktop\Proyecto Hazsell S.A\ProyectoBD1\Sistema Restaurante\bin\Debug\pt\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Administrator\Desktop\Proyecto Hazsell S.A\ProyectoBD1\Sistema Restaurante\bin\Debug\ru\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Administrator\Desktop\Proyecto Hazsell S.A\ProyectoBD1\Sistema Restaurante\bin\Debug\zh-CHS\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Administrator\Desktop\Proyecto Hazsell S.A\ProyectoBD1\Sistema Restaurante\bin\Debug\zh-CHT\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Administrator\Desktop\Proyecto Hazsell S.A\ProyectoBD1\Sistema Restaurante\bin\Debug\de\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Administrator\Desktop\Proyecto Hazsell S.A\ProyectoBD1\Sistema Restaurante\bin\Debug\es\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Administrator\Desktop\Proyecto Hazsell S.A\ProyectoBD1\Sistema Restaurante\bin\Debug\fr\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Administrator\Desktop\Proyecto Hazsell S.A\ProyectoBD1\Sistema Restaurante\bin\Debug\it\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Administrator\Desktop\Proyecto Hazsell S.A\ProyectoBD1\Sistema Restaurante\bin\Debug\ja\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Administrator\Desktop\Proyecto Hazsell S.A\ProyectoBD1\Sistema Restaurante\bin\Debug\ko\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Administrator\Desktop\Proyecto Hazsell S.A\ProyectoBD1\Sistema Restaurante\bin\Debug\pt\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Administrator\Desktop\Proyecto Hazsell S.A\ProyectoBD1\Sistema Restaurante\bin\Debug\ru\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Administrator\Desktop\Proyecto Hazsell S.A\ProyectoBD1\Sistema Restaurante\bin\Debug\zh-CHS\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Administrator\Desktop\Proyecto Hazsell S.A\ProyectoBD1\Sistema Restaurante\bin\Debug\zh-CHT\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Administrator\Desktop\Proyecto Hazsell S.A\ProyectoBD1\Sistema Restaurante\bin\Debug\de\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Administrator\Desktop\Proyecto Hazsell S.A\ProyectoBD1\Sistema Restaurante\bin\Debug\es\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Administrator\Desktop\Proyecto Hazsell S.A\ProyectoBD1\Sistema Restaurante\bin\Debug\fr\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Administrator\Desktop\Proyecto Hazsell S.A\ProyectoBD1\Sistema Restaurante\bin\Debug\it\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Administrator\Desktop\Proyecto Hazsell S.A\ProyectoBD1\Sistema Restaurante\bin\Debug\ja\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Administrator\Desktop\Proyecto Hazsell S.A\ProyectoBD1\Sistema Restaurante\bin\Debug\ko\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Administrator\Desktop\Proyecto Hazsell S.A\ProyectoBD1\Sistema Restaurante\bin\Debug\pt\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Administrator\Desktop\Proyecto Hazsell S.A\ProyectoBD1\Sistema Restaurante\bin\Debug\ru\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Administrator\Desktop\Proyecto Hazsell S.A\ProyectoBD1\Sistema Restaurante\bin\Debug\zh-CHS\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Administrator\Desktop\Proyecto Hazsell S.A\ProyectoBD1\Sistema Restaurante\bin\Debug\zh-CHT\Microsoft.ReportViewer.WinForms.resources.dll

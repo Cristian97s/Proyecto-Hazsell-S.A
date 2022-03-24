@@ -1,0 +1,24 @@
+C:\Users\Administrator\Desktop\ProyectoBD1\CapaDatos\bin\Debug\CapaDatos.dll
+C:\Users\Administrator\Desktop\ProyectoBD1\CapaDatos\bin\Debug\CapaDatos.pdb
+C:\Users\Administrator\Desktop\ProyectoBD1\CapaDatos\obj\Debug\CapaDatos.csproj.AssemblyReference.cache
+C:\Users\Administrator\Desktop\ProyectoBD1\CapaDatos\obj\Debug\CapaDatos.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Desktop\ProyectoBD1\CapaDatos\obj\Debug\CapaDatos.dll
+C:\Users\Administrator\Desktop\ProyectoBD1\CapaDatos\obj\Debug\CapaDatos.pdb
+C:\Users\Administrator\Desktop\Proyecto Hazsell S.A\ProyectoBD1\CapaDatos\bin\Debug\CapaDatos.dll
+C:\Users\Administrator\Desktop\Proyecto Hazsell S.A\ProyectoBD1\CapaDatos\bin\Debug\CapaDatos.pdb
+C:\Users\Administrator\Desktop\Proyecto Hazsell S.A\ProyectoBD1\CapaDatos\obj\Debug\CapaDatos.csproj.AssemblyReference.cache
+C:\Users\Administrator\Desktop\Proyecto Hazsell S.A\ProyectoBD1\CapaDatos\obj\Debug\CapaDatos.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Desktop\Proyecto Hazsell S.A\ProyectoBD1\CapaDatos\obj\Debug\CapaDatos.dll
+C:\Users\Administrator\Desktop\Proyecto Hazsell S.A\ProyectoBD1\CapaDatos\obj\Debug\CapaDatos.pdb
+D:\Proyectos\Proyecto Hazsell S.A V3\Proyecto Hazsell S.A\ProyectoBD1\CapaDatos\bin\Debug\CapaDatos.dll
+D:\Proyectos\Proyecto Hazsell S.A V3\Proyecto Hazsell S.A\ProyectoBD1\CapaDatos\bin\Debug\CapaDatos.pdb
+D:\Proyectos\Proyecto Hazsell S.A V3\Proyecto Hazsell S.A\ProyectoBD1\CapaDatos\obj\Debug\CapaDatos.csproj.AssemblyReference.cache
+D:\Proyectos\Proyecto Hazsell S.A V3\Proyecto Hazsell S.A\ProyectoBD1\CapaDatos\obj\Debug\CapaDatos.csproj.CoreCompileInputs.cache
+D:\Proyectos\Proyecto Hazsell S.A V3\Proyecto Hazsell S.A\ProyectoBD1\CapaDatos\obj\Debug\CapaDatos.dll
+D:\Proyectos\Proyecto Hazsell S.A V3\Proyecto Hazsell S.A\ProyectoBD1\CapaDatos\obj\Debug\CapaDatos.pdb
+C:\Users\Administrator\Desktop\Nueva carpeta\Proyecto Hazsell S.A\ProyectoBD1\CapaDatos\bin\Debug\CapaDatos.dll
+C:\Users\Administrator\Desktop\Nueva carpeta\Proyecto Hazsell S.A\ProyectoBD1\CapaDatos\bin\Debug\CapaDatos.pdb
+C:\Users\Administrator\Desktop\Nueva carpeta\Proyecto Hazsell S.A\ProyectoBD1\CapaDatos\obj\Debug\CapaDatos.csproj.AssemblyReference.cache
+C:\Users\Administrator\Desktop\Nueva carpeta\Proyecto Hazsell S.A\ProyectoBD1\CapaDatos\obj\Debug\CapaDatos.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Desktop\Nueva carpeta\Proyecto Hazsell S.A\ProyectoBD1\CapaDatos\obj\Debug\CapaDatos.dll
+C:\Users\Administrator\Desktop\Nueva carpeta\Proyecto Hazsell S.A\ProyectoBD1\CapaDatos\obj\Debug\CapaDatos.pdb
